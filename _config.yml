@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/busecarik"
+  github           : "busecarik"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/buse%C3%A7ar%C4%B1k/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  #teaching:
-    #output: true
-    #permalink: /:collection/:path/
+  education:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  experience:
     output: true
     permalink: /:collection/:path/
-  #talks:
-    #output: true
-    #permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
