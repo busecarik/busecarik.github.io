@@ -14,8 +14,8 @@
   bottom: 0em;
   height: auto;
   /* sticky footer fix end */
-  margin-top: 3em;
-  color: mix(#fff, $gray, 25%);
+  margin-top: 1em;
+  color: #fff;/*mix(#fff, $gray, 25%);*/
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
@@ -27,7 +27,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: 1em;
     max-width: 100%;
     padding: 0 1em 2em;
 
