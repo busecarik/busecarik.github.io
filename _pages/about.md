@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
-I'm a first year 
+
+I'm a first year Ph.D. student 
 
 Education
 ======
@@ -22,6 +21,8 @@ Publications
 
 
 Experience
-------
+======
 
 
+Teaching
+======
