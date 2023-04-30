@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-
+About Me
+=====
 I'm a first year Ph.D. student at the Virginia Tech, member of [Society + AI & Language (SAIL) Lab](https://sail.cs.vt.edu/) I where work with [Dr. Eugenia Rho](https://eugeniarho.com/). 
 
 
 Education
 ======
-* Ph.D in CS, Virginia Tech
-* M.S. in CS, Sabanci University, 2022
-* B.S. in CS, Sabanci University, 2020
+* Ph.D in Computer Science, Virginia Tech
+  Advised by Dr. Eugenia Rho
+  Research Area: Natural Language Processing and Computational Social Science
+* M.S. in Computer Science, Sabanci University, 2022
+  Advised by Dr. Reyyan Yeniterzi
+* B.S. in Computer Science, Sabanci University, 2020
 
 
 Publications
