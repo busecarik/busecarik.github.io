@@ -20,8 +20,10 @@ Education
 * **Ph.D in Computer Science, Virginia Tech**,  *Expected 2027* 
   - Advised by Dr. Eugenia Rho
   - Research Area: Natural Language Processing and Computational Social Science
+  <br/>
 * **M.S. in Computer Science, Sabanci University**, *Dec 2022*
   - Advised by Dr. Reyyan Yeniterzi
+  <br/>
 * **B.S. in Computer Science, Sabanci University**, *Jun 2020*
 
 <br/><br/>
