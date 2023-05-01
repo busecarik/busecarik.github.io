@@ -12,7 +12,7 @@ About Me
 =====
 I'm a first year Ph.D. student at the Virginia Tech, member of [Society + AI & Language (SAIL) Lab](https://sail.cs.vt.edu/) I where work with [Dr. Eugenia Rho](https://eugeniarho.com/). 
 
-
+<br/>
 ---
 
 Education
@@ -20,16 +20,17 @@ Education
 * **Ph.D in Computer Science, Virginia Tech**,  *Expected 2027* 
   - Advised by Dr. Eugenia Rho
   - Research Area: Natural Language Processing and Computational Social Science
-  <br/>
+
+
 * **M.S. in Computer Science, Sabanci University**, *Dec 2022*
   - Advised by Dr. Reyyan Yeniterzi
-  <br/>
+
+
 * **B.S. in Computer Science, Sabanci University**, *Jun 2020*
 
-<br/><br/>
+<br/>
 
 ---
-<br/><br/>
 
 Publications
 ======
@@ -49,9 +50,8 @@ Publications
   **Buse Çarık**, Reyyan Yeniterzi  
   *CLEF (Working Notes)*
 
-<br/><br/>
+<br/>
 ---
-<br/><br/>
 
 Experience
 ======
@@ -65,9 +65,8 @@ Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-<br/><br/>
+<br/>
 ---
-<br/><br/>
 
 Teaching
 ======
