@@ -33,19 +33,19 @@ Education
 Publications
 ======
 * ### SU-NLP at SemEval-2022 Task 11: Complex Named Entity Recognition with Entity Linking
-  **Buse Çarık**, Fatih Beyhan, Reyyan Yeniterzi
-  *SemEval Workshop at ACL 2022*
+  **Buse Çarık**, Fatih Beyhan, Reyyan Yeniterzi  
+  *SemEval Workshop at ACL 2022* 
 
 * ### A Turkish Hate Speech Dataset and Detection System
-  Fatih Beyhan, **Buse Çarık**, İnanç Arın, Ayşecan Terzioğlu, Berrin Yanikoglu, Reyyan Yeniterzi
-  *LREC 2022*
+  Fatih Beyhan, **Buse Çarık**, İnanç Arın, Ayşecan Terzioğlu, Berrin Yanikoglu, Reyyan Yeniterzi  
+  *LREC 2022* 
 
 * ### A Twitter Corpus for named entity recognition in Turkish
-  **Buse Çarık**, Reyyan Yeniterzi
+  **Buse Çarık**, Reyyan Yeniterzi  
   *LREC 2022*
 
 * ### SU-NLP at CheckThat! 2021: Check-Worthiness of Turkish Tweets
-  **Buse Çarık**, Reyyan Yeniterzi
+  **Buse Çarık**, Reyyan Yeniterzi  
   *CLEF (Working Notes)*
 
 ---
