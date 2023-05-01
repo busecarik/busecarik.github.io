@@ -81,22 +81,22 @@ ing online counter-responses against hateful content
 
 Teaching
 ======
-* **Teaching Assisstant**, *Jan 2023-Present*
-  **Advanced Machine Learning**
-  *Virginia Tech*
+* **Teaching Assisstant**, *Jan 2023-Present*  
+  **Advanced Machine Learning**  
+  *Virginia Tech*  
 
-* **Teaching Assisstant**, *Jan 2022-Ju  2022*
-  **Natural Language Processing**
-  *Sabanci University*
+* **Teaching Assisstant**, *Jan 2022-Ju  2022*  
+  **Natural Language Processing**  
+  *Sabanci University*  
 
-* **Teaching Assisstant**, *Sept 2021-Jan 2022*
-  **Computational Approaches to Problem Solving**
-  *Sabanci University*
+* **Teaching Assisstant**, *Sept 2021-Jan 2022*  
+  **Computational Approaches to Problem Solving**  
+  *Sabanci University*  
 
-* **Head Teaching Assisstant**, *Sept 2020-Jun 2021*
-  **Machine Learning**
-  *Sabanci University*
+* **Head Teaching Assisstant**, *Sept 2020-Jun 2021*  
+  **Machine Learning**  
+  *Sabanci University*  
 
-* **Learning Assisstant**, *Sept 2019-Jan 2020*
-  **Operating Systems**
-  *Sabanci University*
+* **Learning Assisstant**, *Sept 2019-Jan 2020*  
+  **Operating Systems**  
+  *Sabanci University*  
