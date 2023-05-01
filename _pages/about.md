@@ -55,21 +55,36 @@ Publications
 
 Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant (SAIL @ VT) *Jan 2023-Present*  
+  Virginia Tech  
+  * Supervised by Eugenia Rho
+  * Working on using language generation techniques to develop an interactive UI system that assists users in craft-
+ing online counter-responses against hateful content
+  * Wokring on investigating the language of resistance towards government-mandated health practices in COVID
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant (SUSAIL @ Sabanci University) *Apr 2021-Nov 2022*  
+  *End-to-end Neural Entity Linking System with Entitypedia and EntityBERT*  
+  Sabanci University  
+  * Supervised by Reyyan Yeniterzi
+  * Detecting named entities in news and short texts in social media
+  * Matching with social media posts and news using the discovered entities
+
+* Research Assistant (SUSAIL @ Sabanci University) *Mar 2020 - Mar 2021*  
+  *A Deep Learning-Based Hate Speech Detection System: A Comparative Analysis of Turkey and Tunisia*  
+  Sabanci University  
+  * Supervised by Berrin Yanıkoğlu, Reyyan Yeniterzi, Ayşecan Terzioğlu
+  * Creating the first social media dataset and annotation schema for hate speech in Turkish
+  * Developing hate speech detection system using neural and transformer models
 
 <br/>
 ---
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 
+
+* 
+
+* 
+
+* 
