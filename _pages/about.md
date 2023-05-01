@@ -56,7 +56,7 @@ Publications
 Experience
 ======
 * **Research Assistant (SAIL @ VT)**, *Jan 2023-Present*  
-  Virginia Tech  
+  Virginia Tech
   - Supervised by Eugenia Rho
   - Working on using language generation techniques to develop an interactive UI system that assists users in craft-
 ing online counter-responses against hateful content
@@ -64,14 +64,14 @@ ing online counter-responses against hateful content
 
 * **Research Assistant (SUSAIL @ Sabanci University)**, *Apr 2021-Nov 2022*  
   *End-to-end Neural Entity Linking System with Entitypedia and EntityBERT*  
-  Sabanci University  
+  Sabanci University
   - Supervised by Reyyan Yeniterzi
   - Detecting named entities in news and short texts in social media
   - Matching with social media posts and news using the discovered entities
 
 * **Research Assistant (SUSAIL @ Sabanci University)**, *Mar 2020 - Mar 2021*  
   *A Deep Learning-Based Hate Speech Detection System: A Comparative Analysis of Turkey and Tunisia*  
-  Sabanci University  
+  Sabanci University
   - Supervised by Berrin Yanıkoğlu, Reyyan Yeniterzi, Ayşecan Terzioğlu
   - Creating the first social media dataset and annotation schema for hate speech in Turkish
   - Developing hate speech detection system using neural and transformer models
