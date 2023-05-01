@@ -17,12 +17,12 @@ I'm a first year Ph.D. student at the Virginia Tech, member of [Society + AI & L
 
 Education
 ======
-* ### **Ph.D in Computer Science, Virginia Tech**,  *Expected 2027* 
+* **Ph.D in Computer Science, Virginia Tech**,  *Expected 2027* 
   - Advised by Dr. Eugenia Rho
   - Research Area: Natural Language Processing and Computational Social Science
-* ### **M.S. in Computer Science, Sabanci University**, * *Dec 2022* *
+* **M.S. in Computer Science, Sabanci University**, *Dec 2022*
   - Advised by Dr. Reyyan Yeniterzi
-* ### **B.S. in Computer Science, Sabanci University**, * *Jun 2020* *
+* **B.S. in Computer Science, Sabanci University**, *Jun 2020*
 
 
 
@@ -44,7 +44,7 @@ Publications
   **Buse Çarık**, Reyyan Yeniterzi
   *LREC 2022*
 
-* ## SU-NLP at CheckThat! 2021: Check-Worthiness of Turkish Tweets
+* ### SU-NLP at CheckThat! 2021: Check-Worthiness of Turkish Tweets
   **Buse Çarık**, Reyyan Yeniterzi
   *CLEF (Working Notes)*
 
