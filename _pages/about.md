@@ -24,11 +24,10 @@ Education
   - Advised by Dr. Reyyan Yeniterzi
 * **B.S. in Computer Science, Sabanci University**, *Jun 2020*
 
-
+<br/><br/>
 
 ---
-
-
+<br/><br/>
 
 Publications
 ======
@@ -48,7 +47,9 @@ Publications
   **Buse Çarık**, Reyyan Yeniterzi  
   *CLEF (Working Notes)*
 
+<br/><br/>
 ---
+<br/><br/>
 
 Experience
 ======
@@ -62,7 +63,9 @@ Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
+<br/><br/>
 ---
+<br/><br/>
 
 Teaching
 ======
