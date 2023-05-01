@@ -16,7 +16,7 @@ I'm a first year Ph.D. student at the Virginia Tech, member of [Society + AI & L
 ---
 
 [Education](#education)
-# Education 
+Education 
 ======
 * **Ph.D in Computer Science, Virginia Tech**,  *Expected 2027* 
   - Advised by Dr. Eugenia Rho
