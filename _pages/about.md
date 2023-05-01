@@ -23,6 +23,7 @@ Education
   - Advised by Dr. Reyyan Yeniterzi
 * **B.S. in Computer Science, Sabanci University, 2020**
 
+---
 
 Publications
 ======
@@ -30,6 +31,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+---
 
 Experience
 ======
@@ -43,6 +45,7 @@ Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
+---
 
 Teaching
 ======
