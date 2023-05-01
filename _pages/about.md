@@ -15,7 +15,6 @@ I'm a first year Ph.D. student at the Virginia Tech, member of [Society + AI & L
 <br/>
 ---
 
-[Education](#education)  
 
 Education 
 ======
