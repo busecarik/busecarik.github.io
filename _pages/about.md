@@ -37,7 +37,7 @@ Publications
 ======
 * ### SU-NLP at SemEval-2022 Task 11: Complex Named Entity Recognition with Entity Linking
   **Buse Çarık**, Fatih Beyhan, Reyyan Yeniterzi  
-  *SemEval Workshop at ACL 2022* ![fa-pdf](/assets/fonts/file-solid.svg)
+  *SemEval Workshop at ACL 2022* ![file-solid](assets/fonts/file-solid.svg)
 
 * ### A Turkish Hate Speech Dataset and Detection System
   Fatih Beyhan, **Buse Çarık**, İnanç Arın, Ayşecan Terzioğlu, Berrin Yanikoglu, Reyyan Yeniterzi  
