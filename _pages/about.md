@@ -85,19 +85,30 @@ Teaching
 * **Teaching Assisstant**, *Jan 2023-Present*  
   **Advanced Machine Learning**  
   *Virginia Tech*  
+  - Holding weekly office hours
+  - Co-designing and grading assignments
 
 * **Teaching Assisstant**, *Jan 2022-Ju  2022*  
   **Natural Language Processing**  
   *Sabanci University*  
+  - Holding weekly office hours
+  - Led problem-solving sessions sections of 120 students
+  - Co-designing and grading assignments
 
 * **Teaching Assisstant**, *Sept 2021-Jan 2022*  
   **Computational Approaches to Problem Solving**  
   *Sabanci University*  
+  - Leading weekly problem-solving sessions of 30 students
+  - Holding weekly office hours
 
 * **Head Teaching Assisstant**, *Sept 2020-Jun 2021*  
   **Machine Learning**  
-  *Sabanci University*  
+  *Sabanci University* 
+  - Led problem-solving sessions sections of 120 students on implementation of machine learning algorithms
+  - Co-designing and grading assignments
+  - Holding weekly office hours
 
 * **Learning Assisstant**, *Sept 2019-Jan 2020*  
   **Operating Systems**  
   *Sabanci University*  
+  - Assisted 100 undergraduate students with course material and assignments
