@@ -88,7 +88,7 @@ Teaching
   - Holding weekly office hours
   - Co-designing and grading assignments
 
-* **Teaching Assisstant**, *Jan 2022-Ju  2022*  
+* **Teaching Assisstant**, <style>body {text-align: right}</style> *Jan 2022-Ju  2022*  
   **Natural Language Processing**  
   *Sabanci University*  
   - Holding weekly office hours
