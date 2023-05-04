@@ -32,12 +32,12 @@ Education
 <br/>
 
 ---
-
+a
 Publications
 ======
 * ### SU-NLP at SemEval-2022 Task 11: Complex Named Entity Recognition with Entity Linking
   **Buse Çarık**, Fatih Beyhan, Reyyan Yeniterzi  
-  *SemEval Workshop at ACL 2022* [<img src="https://www.flaticon.com/free-icon/file_3143533">](https://aclanthology.org/2022.semeval-1.227/)
+  *SemEval Workshop at ACL 2022* [<img src="http://www.google.com.au/images/nav_logo7.png">](https://aclanthology.org/2022.semeval-1.227/)
 
 * ### A Turkish Hate Speech Dataset and Detection System
   Fatih Beyhan, **Buse Çarık**, İnanç Arın, Ayşecan Terzioğlu, Berrin Yanikoglu, Reyyan Yeniterzi  
