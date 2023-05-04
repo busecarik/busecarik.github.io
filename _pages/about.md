@@ -18,7 +18,8 @@ I'm a first year Ph.D. student at the Virginia Tech, member of [Society + AI & L
 
 Education 
 ======
-* **Ph.D in Computer Science, Virginia Tech**,  <p style="text-align: center;">Expected 2027*</p>
+* **Ph.D in Computer Science, Virginia Tech**,  
+<p style="text-align: center;">*Expected 2027*</p>
   - Advised by Dr. Eugenia Rho
   - Research Area: Natural Language Processing and Computational Social Science
 
