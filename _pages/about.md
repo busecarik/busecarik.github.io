@@ -56,12 +56,12 @@ Publications
 
 Experience
 ======
-* **Research Assistant (SAIL @ VT)**  
+* <p>**Research Assistant (SAIL @ VT)**  
   Virginia Tech, *Jan 2023-Present*  
   - Supervised by Eugenia Rho
   - Working on using language generation techniques to develop an interactive UI system that assists users in craft-
 ing online counter-responses against hateful content
-  - Wokring on investigating the language of resistance towards government-mandated health practices in COVID
+  - Wokring on investigating the language of resistance towards government-mandated health practices in COVID</p>
 
 * **Research Assistant (SUSAIL @ Sabanci University)**  
   *End-to-end Neural Entity Linking System with Entitypedia and EntityBERT*  
