@@ -101,14 +101,14 @@ Teaching
   - Leading weekly problem-solving sessions of 30 students
   - Holding weekly office hours
 
-* **Head Teaching Assisstant**, *Sept 2020-Jun 2021*  
+* **Head Teaching Assisstant** 
   **Machine Learning**  
-  *Sabanci University* 
+  Sabanci University, *Sept 2020-Jun 2021*   
   - Led problem-solving sessions sections of 120 students on implementation of machine learning algorithms
   - Co-designing and grading assignments
   - Holding weekly office hours
 
-* **Learning Assisstant**, *Sept 2019-Jan 2020*  
+* **Learning Assisstant** 
   **Operating Systems**  
-  *Sabanci University*  
+  Sabanci University, *Sept 2019-Jan 2020*     
   - Assisted 100 undergraduate students with course material and assignments
