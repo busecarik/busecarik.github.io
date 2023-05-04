@@ -31,9 +31,10 @@ Education
 
 <br/>
 
----
+
 
 Publications
+---
 ======
 * ### SU-NLP at SemEval-2022 Task 11: Complex Named Entity Recognition with Entity Linking
   **Buse Çarık**, Fatih Beyhan, Reyyan Yeniterzi  
