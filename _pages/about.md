@@ -82,22 +82,22 @@ ing online counter-responses against hateful content
 
 Teaching
 ======
-* **Teaching Assisstant**, *Jan 2023-Present*  
+* **Teaching Assisstant**  
   **Advanced Machine Learning**  
-  *Virginia Tech*  
+  Virginia Tech, *Jan 2023-Present*  
   - Holding weekly office hours
   - Co-designing and grading assignments
 
-* **Teaching Assisstant**, *Jan 2022-Jun 2022* 
+* **Teaching Assisstant**
   **Natural Language Processing**  
-  *Sabanci University*  
+  Sabanci University, *Jan 2022-Jun 2022*    
   - Holding weekly office hours
   - Led problem-solving sessions sections of 120 students
   - Co-designing and grading assignments
 
-* **Teaching Assisstant**, *Sept 2021-Jan 2022*  
+* **Teaching Assisstant**
   **Computational Approaches to Problem Solving**  
-  *Sabanci University*  
+  Sabanci University, *Sept 2021-Jan 2022*  
   - Leading weekly problem-solving sessions of 30 students
   - Holding weekly office hours
 
