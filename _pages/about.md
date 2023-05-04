@@ -57,7 +57,7 @@ Publications
 Experience
 ======
 * **Research Assistant (SAIL @ VT)**  
-  Virginia Tech, &nbsp; *Jan 2023-Present*  
+  Virginia Tech, *Jan 2023-Present*  
   - Supervised by Eugenia Rho
   - Working on using language generation techniques to develop an interactive UI system that assists users in craft-
 ing online counter-responses against hateful content
@@ -65,14 +65,14 @@ ing online counter-responses against hateful content
 
 * **Research Assistant (SUSAIL @ Sabanci University)**  
   *End-to-end Neural Entity Linking System with Entitypedia and EntityBERT*  
-  Sabanci University, &nbsp; *Apr 2021-Nov 2022*  
+  Sabanci University, *Apr 2021-Nov 2022*  
   - Supervised by Reyyan Yeniterzi
   - Detecting named entities in news and short texts in social media
   - Matching with social media posts and news using the discovered entities
 
 * **Research Assistant (SUSAIL @ Sabanci University)**  
   *A Deep Learning-Based Hate Speech Detection System: A Comparative Analysis of Turkey and Tunisia*  
-  Sabanci University, &nbsp; *Mar 2020 - Mar 2021*  
+  Sabanci University, *Mar 2020 - Mar 2021*  
   - Supervised by Berrin Yanıkoğlu, Reyyan Yeniterzi, Ayşecan Terzioğlu
   - Creating the first social media dataset and annotation schema for hate speech in Turkish
   - Developing hate speech detection system using neural and transformer models
@@ -84,31 +84,31 @@ Teaching
 ======
 * **Teaching Assisstant**  
   **Advanced Machine Learning**  
-  Virginia Tech, &nbsp; *Jan 2023-Present*  
+  Virginia Tech, *Jan 2023-Present*  
   - Holding weekly office hours
   - Co-designing and grading assignments
 
 * **Teaching Assisstant**  
   **Natural Language Processing**  
-  Sabanci University, &nbsp; *Jan 2022-Jun 2022*    
+  Sabanci University, *Jan 2022-Jun 2022*    
   - Holding weekly office hours
   - Led problem-solving sessions sections of 120 students
   - Co-designing and grading assignments
 
 * **Teaching Assisstant**
   **Computational Approaches to Problem Solving**  
-  Sabanci University, &nbsp; *Sept 2021-Jan 2022*  
+  Sabanci University, *Sept 2021-Jan 2022*  
   - Leading weekly problem-solving sessions of 30 students
   - Holding weekly office hours
 
 * **Head Teaching Assisstant** 
   **Machine Learning**  
-  Sabanci University, &nbsp; *Sept 2020-Jun 2021*   
+  Sabanci University, *Sept 2020-Jun 2021*   
   - Led problem-solving sessions sections of 120 students on implementation of machine learning algorithms
   - Co-designing and grading assignments
   - Holding weekly office hours
 
 * **Learning Assisstant** 
   **Operating Systems**  
-  Sabanci University, &nbsp; *Sept 2019-Jan 2020*     
+  Sabanci University, *Sept 2019-Jan 2020*     
   - Assisted 100 undergraduate students with course material and assignments
