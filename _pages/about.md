@@ -18,7 +18,7 @@ I'm a first year Ph.D. student at the Virginia Tech, member of [Society + AI & L
 
 Education 
 ======
-* **Ph.D in Computer Science, Virginia Tech**,                   *Expected 2027*
+* **Ph.D in Computer Science, Virginia Tech**, *Expected 2027*
   - Advised by Dr. Eugenia Rho
   - Research Area: Natural Language Processing and Computational Social Science
 
@@ -37,19 +37,19 @@ Publications
 ======
 * ### SU-NLP at SemEval-2022 Task 11: Complex Named Entity Recognition with Entity Linking
   **Buse Çarık**, Fatih Beyhan, Reyyan Yeniterzi  
-  *SemEval Workshop at ACL 2022* <img src="file-pdf.svg" width="50" height="50">
+  *SemEval Workshop at ACL 2022* [paper](https://aclanthology.org/2022.semeval-1.227/)
 
 * ### A Turkish Hate Speech Dataset and Detection System
   Fatih Beyhan, **Buse Çarık**, İnanç Arın, Ayşecan Terzioğlu, Berrin Yanikoglu, Reyyan Yeniterzi  
-  *LREC 2022* 
+  *LREC 2022* [paper](https://aclanthology.org/2022.lrec-1.443/)
 
 * ### A Twitter Corpus for named entity recognition in Turkish
   **Buse Çarık**, Reyyan Yeniterzi  
-  *LREC 2022*
+  *LREC 2022* [paper](https://aclanthology.org/2022.lrec-1.484/)
 
 * ### SU-NLP at CheckThat! 2021: Check-Worthiness of Turkish Tweets
   **Buse Çarık**, Reyyan Yeniterzi  
-  *CLEF (Working Notes)*
+  *CLEF (Working Notes)* [paper](https://ceur-ws.org/Vol-2936/paper-37.pdf)
 
 <br/>
 ---
