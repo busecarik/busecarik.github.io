@@ -63,7 +63,7 @@ Experience
 ing online counter-responses against hateful content
   - Wokring on investigating the language of resistance towards government-mandated health practices in COVID  
 
-&nbsp;  
+&nbsp;
 
 - **Research Assistant (SUSAIL @ Sabanci University)**  
   *End-to-end Neural Entity Linking System with Entitypedia and EntityBERT*  
@@ -72,7 +72,7 @@ ing online counter-responses against hateful content
   - Detecting named entities in news and short texts in social media
   - Matching with social media posts and news using the discovered entities
 
-&nbsp;  
+&nbsp;
 
 + **Research Assistant (SUSAIL @ Sabanci University)**  
   *A Deep Learning-Based Hate Speech Detection System: A Comparative Analysis of Turkey and Tunisia*  
@@ -81,8 +81,10 @@ ing online counter-responses against hateful content
   - Creating the first social media dataset and annotation schema for hate speech in Turkish
   - Developing hate speech detection system using neural and transformer models
 
-<br/>
+
 ---
+
+&nbsp;
 
 Teaching
 ======
@@ -90,27 +92,31 @@ Teaching
   **Advanced Machine Learning**  
   Virginia Tech, *Jan 2023-Present*  
   - Holding weekly office hours
-  - Co-designing and grading assignments
+  - Co-designing and grading assignments  
+&nbsp;
 
 - **Teaching Assisstant**  
   **Natural Language Processing**  
   Sabanci University, *Jan 2022-Jun 2022*    
   - Holding weekly office hours
   - Led problem-solving sessions sections of 120 students
-  - Co-designing and grading assignments
+  - Co-designing and grading assignments  
+&nbsp;  
 
 + **Teaching Assisstant**
   **Computational Approaches to Problem Solving**  
   Sabanci University, *Sept 2021-Jan 2022*  
   - Leading weekly problem-solving sessions of 30 students
-  - Holding weekly office hours
+  - Holding weekly office hours  
+&nbsp;
 
 - **Head Teaching Assisstant** 
   **Machine Learning**  
   Sabanci University, *Sept 2020-Jun 2021*   
   - Led problem-solving sessions sections of 120 students on implementation of machine learning algorithms
   - Co-designing and grading assignments
-  - Holding weekly office hours
+  - Holding weekly office hours  
+&nbsp;  
 
 + **Learning Assisstant** 
   **Operating Systems**  
