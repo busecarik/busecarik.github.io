@@ -10,7 +10,9 @@ redirect_from:
 
 About Me
 =====
+---
 I'm a first year Ph.D. student at the Virginia Tech, member of [Society + AI & Language (SAIL) Lab](https://sail.cs.vt.edu/) I where work with [Dr. Eugenia Rho](https://eugeniarho.com/). 
+
 
 <br/>
 
