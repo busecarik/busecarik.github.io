@@ -61,7 +61,9 @@ Experience
   - Supervised by Eugenia Rho
   - Working on using language generation techniques to develop an interactive UI system that assists users in craft-
 ing online counter-responses against hateful content
-  - Wokring on investigating the language of resistance towards government-mandated health practices in COVID
+  - Wokring on investigating the language of resistance towards government-mandated health practices in COVID  
+
+&nbsp;  
 
 - **Research Assistant (SUSAIL @ Sabanci University)**  
   *End-to-end Neural Entity Linking System with Entitypedia and EntityBERT*  
@@ -70,6 +72,8 @@ ing online counter-responses against hateful content
   - Detecting named entities in news and short texts in social media
   - Matching with social media posts and news using the discovered entities
 
+&nbsp;  
+
 + **Research Assistant (SUSAIL @ Sabanci University)**  
   *A Deep Learning-Based Hate Speech Detection System: A Comparative Analysis of Turkey and Tunisia*  
   Sabanci University, *Mar 2020 - Mar 2021*  
@@ -77,7 +81,7 @@ ing online counter-responses against hateful content
   - Creating the first social media dataset and annotation schema for hate speech in Turkish
   - Developing hate speech detection system using neural and transformer models
 
-</br>
+<br/>
 ---
 
 Teaching
