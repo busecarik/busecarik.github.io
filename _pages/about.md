@@ -13,11 +13,11 @@ About Me
 I'm a first year Ph.D. student at the Virginia Tech, member of [Society + AI & Language (SAIL) Lab](https://sail.cs.vt.edu/) I where work with [Dr. Eugenia Rho](https://eugeniarho.com/). 
 
 <br/>
----
 
 
 Education 
 ======
+---
 * **Ph.D in Computer Science, Virginia Tech**, *Expected 2027*
   - Advised by Dr. Eugenia Rho
   - Research Area: Natural Language Processing and Computational Social Science
@@ -53,10 +53,10 @@ Publications
   *CLEF (Working Notes)* &nbsp;  [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://ceur-ws.org/Vol-2936/paper-37.pdf)
 
 <br/>
----
 
 Experience
 ======
+---
 + **Research Assistant (SAIL @ VT)**  
   Virginia Tech, *Jan 2023-Present*  
   - Supervised by Eugenia Rho
@@ -82,13 +82,11 @@ ing online counter-responses against hateful content
   - Creating the first social media dataset and annotation schema for hate speech in Turkish
   - Developing hate speech detection system using neural and transformer models
 
-
----
-
 &nbsp;
 
 Teaching
 ======
+---
 + **Teaching Assisstant**  
   **Advanced Machine Learning**  
   Virginia Tech, *Jan 2023-Present*  
