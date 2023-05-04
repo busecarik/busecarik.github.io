@@ -82,7 +82,7 @@ ing online counter-responses against hateful content
   - Creating the first social media dataset and annotation schema for hate speech in Turkish
   - Developing hate speech detection system using neural and transformer models
 
-&nbsp;
+<br/>
 
 Teaching
 ======
