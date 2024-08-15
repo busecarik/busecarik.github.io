@@ -11,7 +11,7 @@ redirect_from:
 About Me
 =====
 ---
-I'm a first year Ph.D. student at the Virginia Tech, member of [Society + AI & Language (SAIL) Lab](https://sail.cs.vt.edu/) I where work with [Dr. Eugenia Rho](https://eugeniarho.com/).  
+I'm a second year Ph.D. student at the Virginia Tech, member of [Society + AI & Language (SAIL) Lab](https://sail.cs.vt.edu/) I where work with [Dr. Eugenia Rho](https://eugeniarho.com/).  
 My work is at the intersection of *Natural Language Processing*, *Human-Computer Interaction*, and *Computational Social Science*. I am interested in leveraging AI and data from various online social platforms to gain a deeper understanding of people and their behavior for social good.
  
 <br/>
