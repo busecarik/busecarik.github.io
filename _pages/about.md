@@ -41,6 +41,10 @@ Publications
   **Buse Çarık**, Fatih Beyhan, Reyyan Yeniterzi  
   *SemEval Workshop at ACL 2022* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://aclanthology.org/2022.semeval-1.227/)
 
+* ### SU-NLP at SemEval-2022 Task 11: Complex Named Entity Recognition with Entity Linking
+  **Buse Çarık**, Fatih Beyhan, Reyyan Yeniterzi  
+  *SemEval Workshop at ACL 2022* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://aclanthology.org/2022.semeval-1.227/)
+
 * ### A Turkish Hate Speech Dataset and Detection System
   Fatih Beyhan, **Buse Çarık**, İnanç Arın, Ayşecan Terzioğlu, Berrin Yanikoglu, Reyyan Yeniterzi  
   *LREC 2022* &nbsp;  [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://aclanthology.org/2022.lrec-1.443/)
