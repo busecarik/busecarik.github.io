@@ -83,7 +83,7 @@ author:
   name             : "Buse Çarık"
   avatar           : "profile.png"
   bio              : "Ph.D. Student at Virginia Tech"
-  location         : "<span style='padding-left: 10px;'>Blacksburg, VA, US</span>"
+  location         : "220 Gilbert Place,<br> <span style='padding-left: 8px;'>Blacksburg, VA, US</span>"
   googlescholar    : "https://scholar.google.com/citations?user=0kemVU8AAAAJ&hl=en"
   email            : "buse@vt.edu"
   github           : "busecarik"
