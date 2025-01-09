@@ -19,11 +19,11 @@ My work is at the intersection of *Natural Language Processing*, *Human-Computer
 Recent News 
 ======
 ---
-**[Oct. 14]** Won the **VTCAR Student Award**P to fund my research on *“Designing neuro-affirming human-AI interactions for coping with negative self talk for autistic adults”*! 🎉 
+**[Oct. 14]** Won the **VTCAR Student Award** to fund my research on *“Designing neuro-affirming human-AI interactions for coping with negative self talk for autistic adults”*! 🎉 
 
-**[Oct. 3]** Paper accepted by GROUP 2025. - Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns 💡
+**[Oct. 3]** Paper accepted by GROUP 2025. - [Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns] ((https://doi.org/10.48550/arXiv.2410.03032)) 💡
 
-**[May. 11]** Paper accepted by ACM CHI 2024. – Leveraging Prompt-Based Large Language Models: Predicting Pandemic Health Decisions and Outcomes Through Social Media Language 💡
+**[May. 11]** Paper accepted by CHI 2024. – [Leveraging Prompt-Based Large Language Models: Predicting Pandemic Health Decisions and Outcomes Through Social Media Language] (https://dl.acm.org/doi/10.1145/3613904.3642117) 💡
 
 <br/>
 
