@@ -76,7 +76,7 @@ Publications
 Selected Talks
 ======
 ---
-Supporting Mental Health in Neurodiverse Communities: Enhancing LLM Accessibility through Multimodal Human-AI Interactions
+**Supporting Mental Health in Neurodiverse Communities: Enhancing LLM Accessibility through Multimodal Human-AI Interactions**
 Symposium on the Human-Centered Future of Work, Virginia Tech, November 2023
 <br/>
 
@@ -85,22 +85,22 @@ Teaching
 ---
 **Graduate Teaching Assisstant**  
   - **Introduction to Software Design**
-  Fall 2024, *Virginia Tech*  
+    Fall 2024, *Virginia Tech*  
 
   - **Introduction to Problem Solving**
-  Fall 2023, *Virginia Tech*  
+    Fall 2023, *Virginia Tech*  
 
   - **Advanced Machine Learning**
-  Spring 2023, *Virginia Tech*  
+    Spring 2023, *Virginia Tech*  
 
   - **Natural Language Processing**
     Spring 2022, *Sabanci University*    
 
   - **Computational Approaches to Problem Solving**
-  Fall 2021, *Sabanci University*  
+    Fall 2021, *Sabanci University*  
 
   - **Machine Learning**
-  Sabanci University, *Sept 2020-Jun 2021*   
+    Sabanci University, *Sept 2020-Jun 2021*   
 
 **Learning Assisstant** 
   - **Operating Systems**  
