@@ -87,6 +87,7 @@ Selected Talks
 </div>
 <br/>
 
+
 Teaching
 ======
 ---
@@ -103,6 +104,7 @@ Teaching
   Fall 2021, *Sabanci University*  
 - **Machine Learning**  
   Fall 2020, *Sabanci University*  
+
 
 **Learning Assistant**  
 - **Operating Systems**  
