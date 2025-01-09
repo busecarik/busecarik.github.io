@@ -15,9 +15,12 @@ I'm a second year Ph.D. student at the Virginia Tech, member of [Society + AI & 
 My work is at the intersection of *Natural Language Processing*, *Human-Computer Interaction*, and *Computational Social Science*. I am interested in leveraging AI and data from various online social platforms to gain a deeper understanding of people and their behavior for social good.
 
 <br/>
-Recent News
+
+Recent News 
 ======
- 
+---
+
+
 <br/>
 
 Education 
@@ -25,14 +28,13 @@ Education
 ---
 * **Ph.D in Computer Science, Virginia Tech**, *Expected 2027*
   - Advised by Dr. Eugenia Rho
-  - Research Area: Natural Language Processing and Computational Social Science
-
 
 * **M.S. in Computer Science, Sabanci University**, *Dec 2022*
   - Advised by Dr. Reyyan Yeniterzi
 
 
 * **B.S. in Computer Science, Sabanci University**, *Jun 2020*
+  - with Minor in Psychology
 
 <br/>
 
@@ -110,26 +112,18 @@ ing online counter-responses against hateful content
 Teaching
 ======
 ---
-+ **Teaching Assisstant**  
+- **Graduate Teaching Assisstant**  
   **Advanced Machine Learning**  
-  Virginia Tech, *Jan 2023-Present*  
-  - Holding weekly office hours
-  - Co-designing and grading assignments  
+  Spring 2023, *Virginia Tech*  
 &nbsp;
 
-- **Teaching Assisstant**  
-  **Natural Language Processing**  
-  Sabanci University, *Jan 2022-Jun 2022*    
-  - Holding weekly office hours
-  - Led problem-solving sessions sections of 120 students
-  - Co-designing and grading assignments  
+**Natural Language Processing**  
+  Spring 2022, *Sabanci University*    
+
 &nbsp;  
 
-+ **Teaching Assisstant**
-  **Computational Approaches to Problem Solving**  
-  Sabanci University, *Sept 2021-Jan 2022*  
-  - Leading weekly problem-solving sessions of 30 students
-  - Holding weekly office hours  
+**Computational Approaches to Problem Solving**  
+  Fall 2021, *Sabanci University*  
 &nbsp;
 
 - **Head Teaching Assisstant** 
