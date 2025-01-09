@@ -19,7 +19,7 @@ My work is at the intersection of *Natural Language Processing*, *Human-Computer
 Recent News 
 ======
 ---
-
+-[Oct. 3] Paper accepted by GROUP 2025
 
 <br/>
 
