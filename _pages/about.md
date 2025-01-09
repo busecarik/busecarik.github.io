@@ -76,66 +76,31 @@ Publications
 Selected Talks
 ======
 ---
-
-<br/>
-
-Experience
-======
----
-+ **Research Assistant (SAIL @ VT)**  
-  Virginia Tech, *Jan 2023-Present*  
-  - Supervised by Eugenia Rho
-  - Working on using language generation techniques to develop an interactive UI system that assists users in craft-
-ing online counter-responses against hateful content
-  - Wokring on investigating the language of resistance towards government-mandated health practices in COVID  
-
-&nbsp;
-
-- **Research Assistant (SUSAIL @ Sabanci University)**  
-  *End-to-end Neural Entity Linking System with Entitypedia and EntityBERT*  
-  Sabanci University, *Apr 2021-Nov 2022*  
-  - Supervised by Reyyan Yeniterzi
-  - Detecting named entities in news and short texts in social media
-  - Matching with social media posts and news using the discovered entities
-
-&nbsp;
-
-+ **Research Assistant (SUSAIL @ Sabanci University)**  
-  *A Deep Learning-Based Hate Speech Detection System: A Comparative Analysis of Turkey and Tunisia*  
-  Sabanci University, *Mar 2020 - Mar 2021*  
-  - Supervised by Berrin Yanıkoğlu, Reyyan Yeniterzi, Ayşecan Terzioğlu
-  - Creating the first social media dataset and annotation schema for hate speech in Turkish
-  - Developing hate speech detection system using neural and transformer models
-
+Supporting Mental Health in Neurodiverse Communities: Enhancing LLM Accessibility through Multimodal Human-AI Interactions
+Symposium on the Human-Centered Future of Work, Virginia Tech, November 2023
 <br/>
 
 Teaching
 ======
 ---
 **Graduate Teaching Assisstant**  
-- Introduction to Software Design*
-Fall 2024, *Virginia Tech*  
-&nbsp;
+  - **Introduction to Software Design**
+  Fall 2024, *Virginia Tech*  
 
-- Introduction to Problem Solving
-Fall 2023, *Virginia Tech*  
-&nbsp;
+  - **Introduction to Problem Solving**
+  Fall 2023, *Virginia Tech*  
 
-- Advanced Machine Learning
-Spring 2023, *Virginia Tech*  
-&nbsp;
+  - **Advanced Machine Learning**
+  Spring 2023, *Virginia Tech*  
 
-- Natural Language Processing
-  Spring 2022, *Sabanci University*    
-&nbsp;  
+  - **Natural Language Processing**
+    Spring 2022, *Sabanci University*    
 
-- Computational Approaches to Problem Solving
-Fall 2021, *Sabanci University*  
-&nbsp;
+  - **Computational Approaches to Problem Solving**
+  Fall 2021, *Sabanci University*  
 
-- Machine Learning
-Sabanci University, *Sept 2020-Jun 2021*   
-&nbsp;  
+  - **Machine Learning**
+  Sabanci University, *Sept 2020-Jun 2021*   
 
 **Learning Assisstant** 
   - **Operating Systems**  
