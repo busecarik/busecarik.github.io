@@ -80,8 +80,11 @@ Publications
 Selected Talks
 ======
 ---
-**Supporting Mental Health in Neurodiverse Communities: Enhancing LLM Accessibility through Multimodal Human-AI Interactions**
-  Symposium on the Human-Centered Future of Work, Virginia Tech, November 2023
+<div>
+  <strong>Supporting Mental Health in Neurodiverse Communities: Enhancing LLM Accessibility through Multimodal Human-AI Interactions</strong>
+  <br/>
+  <span>Symposium on the Human-Centered Future of Work, Virginia Tech, November 2023</span>
+</div>
 <br/>
 
 Teaching
