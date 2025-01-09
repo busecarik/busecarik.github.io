@@ -19,7 +19,8 @@ My work is at the intersection of *Natural Language Processing*, *Human-Computer
 Recent News 
 ======
 ---
--[Oct. 3] Paper accepted by GROUP 2025
+-**[Oct. 14]** Won the VTCAR Student Award to fund my research on *“Designing neuro-affirming human-AI interactions for coping with negative self talk for autistic adults.”*!  
+-**[Oct. 3]** Paper accepted by GROUP 2025
 
 <br/>
 
@@ -77,7 +78,7 @@ Selected Talks
 ======
 ---
 **Supporting Mental Health in Neurodiverse Communities: Enhancing LLM Accessibility through Multimodal Human-AI Interactions**
-Symposium on the Human-Centered Future of Work, Virginia Tech, November 2023
+  Symposium on the Human-Centered Future of Work, Virginia Tech, November 2023
 <br/>
 
 Teaching
