@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+About Me xx
 =====
 ---
 I'm a second year Ph.D. student at the Virginia Tech, member of [Society + AI & Language (SAIL) Lab](https://sail.cs.vt.edu/) I where work with [Dr. Eugenia Rho](https://eugeniarho.com/).  
