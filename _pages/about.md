@@ -93,19 +93,14 @@ Teaching
 **Graduate Teaching Assisstant**  
   - **Introduction to Software Design**
     Fall 2024, *Virginia Tech*  
-
   - **Introduction to Problem Solving**
     Fall 2023, *Virginia Tech*  
-
   - **Advanced Machine Learning**
     Spring 2023, *Virginia Tech*  
-
   - **Natural Language Processing**
     Spring 2022, *Sabanci University*    
-
   - **Computational Approaches to Problem Solving**
     Fall 2021, *Sabanci University*  
-
   - **Machine Learning**
     Sabanci University, *Sept 2020-Jun 2021*   
 
