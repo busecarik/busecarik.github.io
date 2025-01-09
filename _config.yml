@@ -84,38 +84,13 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. Student at Virginia Tech"
   location         : "220 Gilbert Place, Blacksburg, VA, US"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0kemVU8AAAAJ&hl=en"
   email            : "buse@vt.edu"
-  cv               : "/assets/CV.pdf"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "busecarik"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : https://www.linkedin.com/in/buse%C3%A7ar%C4%B1k/
   orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "buse_carik"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  cv               : "/assets/CV.pdf"
 
 
 # Reading Files
