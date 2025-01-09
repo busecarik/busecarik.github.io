@@ -105,7 +105,7 @@ Teaching
 - **Machine Learning**  
   Fall 2020, *Sabanci University*  
 
-<br/>
+
 
 **Learning Assistant**  
 - **Operating Systems**  
