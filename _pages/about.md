@@ -112,29 +112,31 @@ ing online counter-responses against hateful content
 Teaching
 ======
 ---
-- **Graduate Teaching Assisstant**  
-  **Advanced Machine Learning**  
-  Spring 2023, *Virginia Tech*  
+**Graduate Teaching Assisstant**  
+- Introduction to Software Design*
+Fall 2024, *Virginia Tech*  
 &nbsp;
 
-**Natural Language Processing**  
+- Introduction to Problem Solving
+Fall 2023, *Virginia Tech*  
+&nbsp;
+
+- Advanced Machine Learning
+Spring 2023, *Virginia Tech*  
+&nbsp;
+
+- Natural Language Processing
   Spring 2022, *Sabanci University*    
-
 &nbsp;  
 
-**Computational Approaches to Problem Solving**  
-  Fall 2021, *Sabanci University*  
+- Computational Approaches to Problem Solving
+Fall 2021, *Sabanci University*  
 &nbsp;
 
-- **Head Teaching Assisstant** 
-  **Machine Learning**  
-  Sabanci University, *Sept 2020-Jun 2021*   
-  - Led problem-solving sessions sections of 120 students on implementation of machine learning algorithms
-  - Co-designing and grading assignments
-  - Holding weekly office hours  
+- Machine Learning
+Sabanci University, *Sept 2020-Jun 2021*   
 &nbsp;  
 
-+ **Learning Assisstant** 
-  **Operating Systems**  
-  Sabanci University, *Sept 2019-Jan 2020*     
-  - Assisted 100 undergraduate students with course material and assignments
+**Learning Assisstant** 
+  - **Operating Systems**  
+  Fall 2019, *Sabanci University*     
