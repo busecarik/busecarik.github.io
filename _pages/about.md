@@ -51,22 +51,18 @@ Publications
 ---
 * ### Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk
   **Buse Çarık**, Victoria Izaac, Xiaohan Ding, Angela Scarpa, and Eugenia H. Rho.
-  
   *ACM Conference on Human Factors in Computing Systems (CHI), 2025.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>]()
 
 * ### Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns
   **Buse Çarık**, Kaike Ping, Xiaohan Ding, and Eugenia H. Rho.
-  
   *ACM International Conference on Supporting Group Work (GROUP), 2025.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://doi.org/10.48550/arXiv.2410.03032)
 
 * ### Leveraging Prompt-Based Large Language Models: Predicting Pandemic Health Decisions and Outcomes Through Social Media Language
   Xiaohan Ding, **Buse Çarık**, Uma Gunturi, Valerie Reyna, and Eugenia H. Rho
-  
-  *ACM Conference on Human Factors in Computing Systems (CHI), 2024..* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://dl.acm.org/doi/10.1145/3613904.3642117)
+  *ACM Conference on Human Factors in Computing Systems (CHI), 2024.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://dl.acm.org/doi/10.1145/3613904.3642117)
 
 * ### A Twitter Corpus for named entity recognition in Turkish
   **Buse Çarık**, Reyyan Yeniterzi.
-  
   *International Conference on Language Resources and Evaluation (LREC), 2022.* &nbsp;  [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://aclanthology.org/2022.lrec-1.484/)
 
 * ### A Turkish Hate Speech Dataset and Detection System
@@ -75,12 +71,10 @@ Publications
 
 * ### SU-NLP at SemEval-2022 Task 11: Complex Named Entity Recognition with Entity Linking
   **Buse Çarık**, Fatih Beyhan, Reyyan Yeniterzi.
-  
   *SemEval Workshop at ACL 2022* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://aclanthology.org/2022.semeval-1.227/)
 
 * ### SU-NLP at CheckThat! 2021: Check-Worthiness of Turkish Tweets
   **Buse Çarık**, Reyyan Yeniterzi.
-  
   *CLEF (Working Notes)* &nbsp;  [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://ceur-ws.org/Vol-2936/paper-37.pdf)
 
 <br/>
