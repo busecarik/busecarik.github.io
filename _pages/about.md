@@ -19,11 +19,11 @@ My research lies at the intersection of *Natural Language Processing*, *Human-Co
 Recent News 
 ======
 ---
-**[Jan. 16]** Paper accepted by CHI 2025. – [Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk]() 💡
+**[Mar. 24]** Presented our work at VTCAR Biennial Spring Conference: Promoting Well-being for Autistic People Across the Lifespan! 🎉 
+
+**[Jan. 16]** Paper accepted by CHI 2025. – [Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk](https://arxiv.org/abs/2503.17504) 💡
 
 **[Oct. 14]** Won the **VTCAR Student Award** to fund my research on *“Designing neuro-affirming human-AI interactions for coping with negative self talk for autistic adults”*! 🎉 
-
-**[Oct. 3]** Paper accepted by GROUP 2025. - [Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns](https://doi.org/10.48550/arXiv.2410.03032) 💡
 
 
 
@@ -51,11 +51,11 @@ Publications
 ---
 * ### Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk
   **Buse Çarık**, Victoria Izaac, Xiaohan Ding, Angela Scarpa, and Eugenia H. Rho.
-  *ACM Conference on Human Factors in Computing Systems (CHI), 2025.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>]()
+  *ACM Conference on Human Factors in Computing Systems (CHI), 2025.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://arxiv.org/abs/2503.17504)
 
 * ### Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns
   **Buse Çarık**, Kaike Ping, Xiaohan Ding, and Eugenia H. Rho.
-  *ACM International Conference on Supporting Group Work (GROUP), 2025.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://doi.org/10.48550/arXiv.2410.03032)
+  *ACM International Conference on Supporting Group Work (GROUP), 2025.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://dl.acm.org/doi/10.1145/3701194)
 
 * ### Leveraging Prompt-Based Large Language Models: Predicting Pandemic Health Decisions and Outcomes Through Social Media Language
   Xiaohan Ding, **Buse Çarık**, Uma Gunturi, Valerie Reyna, and Eugenia H. Rho
