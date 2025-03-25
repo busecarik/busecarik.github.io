@@ -19,7 +19,7 @@ My research lies at the intersection of *Natural Language Processing*, *Human-Co
 Recent News 
 ======
 ---
-**[Mar. 24]** Presented our work at VTCAR Biennial Spring Conference: Promoting Well-being for Autistic People Across the Lifespan! 🎉 
+**[Mar. 24]** Presented our work at [VTCAR Biennial Spring Conference: Promoting Well-being for Autistic People Across the Lifespan](https://www.vtcar.science.vt.edu/outreach/Events/Conference.html)! 🎉 
 
 **[Jan. 16]** Paper accepted by CHI 2025. – [Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk](https://arxiv.org/abs/2503.17504) 💡
 
