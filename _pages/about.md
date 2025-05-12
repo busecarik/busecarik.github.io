@@ -26,6 +26,7 @@ Recent News
 **[Oct. 14]** Won the **VTCAR Student Award** to fund my research on *“Designing neuro-affirming human-AI interactions for coping with negative self talk for autistic adults”*! 🎉 
 
 <br/>
+<br/>
 
 Selected Publications
 ======
@@ -56,8 +57,6 @@ Selected Publications
 
 <br/>
 
-<br/>
-
 Education 
 ======
 ---
@@ -77,30 +76,20 @@ Awards & Honors
 ======
 ---
 * ### VT Autism Clinic & Center for Autism Research Student Fellowship
-  Awarded in recognition of research proposal *“Developing Human-AI Interaction Strategies to Sup-
-port Autistic Adults in Coping with Negative Self-Talk”*
+  Awarded in recognition of research proposal "Developing Human-AI Interaction Strategies to Sup-
+port Autistic Adults in Coping with Negative Self-Talk"
 
 <br/>
 
 Selected Talks
 ======
 ---
-<div>
-  <strong>Designing Neuro-Affirming Human-AI Interactions for Coping with Negative Self-Talk
-in Autistic Adults </strong>
-  <br/>
-  <span>Virginia Tech Center for Autism Research – Biennial Spring Autism Conference, March 2025</span>
-</div>
+* ### Designing Neuro-Affirming Human-AI Interactions for Coping with Negative Self-Talk in Autistic Adults 
+Virginia Tech Center for Autism Research – Biennial Spring Autism Conference, March 2025
 
-<div>
-  <strong>Designing Multimodal AI Tools to Support Autistic Adults with Negative Self-Talk  </strong>
-  <br/>
-  <span>Virginia Tech Center for Human-Computer Interaction (CHCI) Seminar, February 2025</span>
-</div>
 
-<div>
-  <strong>Supporting Mental Health in Neurodiverse Communities: Enhancing LLM Accessibility through Multimodal Human-AI Interactions</strong>
-  <br/>
-  <span>Symposium on the Human-Centered Future of Work, Virginia Tech, November 2023</span>
-</div>
-<br/>
+* ### Designing Multimodal AI Tools to Support Autistic Adults with Negative Self-Talk 
+Virginia Tech Center for Human-Computer Interaction (CHCI) Seminar, February 2025
+
+* ### Supporting Mental Health in Neurodiverse Communities: Enhancing LLM Accessibility through Multimodal Human-AI Interactions
+Symposium on the Human-Centered Future of Work, Virginia Tech, November 2023
