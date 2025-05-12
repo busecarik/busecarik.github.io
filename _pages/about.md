@@ -20,9 +20,13 @@ Recent News
 ======
 ---
 **[April 26]** Attending ACM CHI 2025 (Yokohama, Japan) as a paper presenter!
+
 **[April 24]** One paper accepted to CUI 2025!
+
 **[Mar. 24]** Presented our work at [VTCAR Biennial Spring Conference: Promoting Well-being for Autistic People Across the Lifespan](https://www.vtcar.science.vt.edu/outreach/Events/Conference.html)! 🎉 
+
 **[Jan. 16]** Paper accepted by CHI 2025. – [Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk](https://arxiv.org/abs/2503.17504) 💡
+
 **[Oct. 14]** Won the **VTCAR Student Award** to fund my research on *“Designing neuro-affirming human-AI interactions for coping with negative self talk for autistic adults”*! 🎉 
 
 <br/>
