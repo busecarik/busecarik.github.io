@@ -19,6 +19,10 @@ My research lies at the intersection of *Natural Language Processing*, *Human-Co
 Recent News 
 ======
 ---
+**[April 26]** Attending ACM CHI 2025 (Yokohama, Japan) as a paper presenter!
+
+**[April 24]** One paper accepted to CUI 2025!
+
 **[Mar. 24]** Presented our work at [VTCAR Biennial Spring Conference: Promoting Well-being for Autistic People Across the Lifespan](https://www.vtcar.science.vt.edu/outreach/Events/Conference.html)! 🎉 
 
 **[Jan. 16]** Paper accepted by CHI 2025. – [Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk](https://arxiv.org/abs/2503.17504) 💡
@@ -26,6 +30,34 @@ Recent News
 **[Oct. 14]** Won the **VTCAR Student Award** to fund my research on *“Designing neuro-affirming human-AI interactions for coping with negative self talk for autistic adults”*! 🎉 
 
 
+Selected Publications
+======
+---
+* ### Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk
+  **Buse Çarık**, Victoria Izaac, Xiaohan Ding, Angela Scarpa, and Eugenia H. Rho.
+  *ACM Conference on Human Factors in Computing Systems (CHI), 2025.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://dl.acm.org/doi/full/10.1145/3706598.3714287)
+
+* ### Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns
+  **Buse Çarık**, Kaike Ping, Xiaohan Ding, and Eugenia H. Rho.
+  *ACM International Conference on Supporting Group Work (GROUP), 2025.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://dl.acm.org/doi/10.1145/3701194)
+
+* ### Linguistic Determinants of Effective Counterspeech: Strategies for Responding to Online Hate Speech
+  **Buse Çarık**, Kaike Ping, Xiaohan Ding, James Hawdon, and Eugenia H. Rho.
+  *Proceedings of the National Academy of Sciences (PNAS), 2025 (Under Review)
+
+* ### Leveraging Prompt-Based Large Language Models: Predicting Pandemic Health Decisions and Outcomes Through Social Media Language
+  Xiaohan Ding, **Buse Çarık**, Uma Gunturi, Valerie Reyna, and Eugenia H. Rho
+  *ACM Conference on Human Factors in Computing Systems (CHI), 2024.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://dl.acm.org/doi/10.1145/3613904.3642117)
+
+* ### A Twitter Corpus for named entity recognition in Turkish
+  **Buse Çarık**, Reyyan Yeniterzi.
+  *International Conference on Language Resources and Evaluation (LREC), 2022.* &nbsp;  [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://aclanthology.org/2022.lrec-1.484/)
+
+* ### A Turkish Hate Speech Dataset and Detection System
+  Fatih Beyhan, **Buse Çarık**, İnanç Arın, Ayşecan Terzioğlu, Berrin Yanikoglu, Reyyan Yeniterzi.  
+  *International Conference on Language Resources and Evaluation (LREC), 2022.* &nbsp;  [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://aclanthology.org/2022.lrec-1.443/)
+
+<br/>
 
 <br/>
 
@@ -44,71 +76,34 @@ Education
 
 <br/>
 
-
-
-Publications
+Awards & Honors
 ======
 ---
-* ### Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk
-  **Buse Çarık**, Victoria Izaac, Xiaohan Ding, Angela Scarpa, and Eugenia H. Rho.
-  *ACM Conference on Human Factors in Computing Systems (CHI), 2025.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://arxiv.org/abs/2503.17504)
-
-* ### Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns
-  **Buse Çarık**, Kaike Ping, Xiaohan Ding, and Eugenia H. Rho.
-  *ACM International Conference on Supporting Group Work (GROUP), 2025.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://dl.acm.org/doi/10.1145/3701194)
-
-* ### Leveraging Prompt-Based Large Language Models: Predicting Pandemic Health Decisions and Outcomes Through Social Media Language
-  Xiaohan Ding, **Buse Çarık**, Uma Gunturi, Valerie Reyna, and Eugenia H. Rho
-  *ACM Conference on Human Factors in Computing Systems (CHI), 2024.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://dl.acm.org/doi/10.1145/3613904.3642117)
-
-* ### A Twitter Corpus for named entity recognition in Turkish
-  **Buse Çarık**, Reyyan Yeniterzi.
-  *International Conference on Language Resources and Evaluation (LREC), 2022.* &nbsp;  [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://aclanthology.org/2022.lrec-1.484/)
-
-* ### A Turkish Hate Speech Dataset and Detection System
-  Fatih Beyhan, **Buse Çarık**, İnanç Arın, Ayşecan Terzioğlu, Berrin Yanikoglu, Reyyan Yeniterzi.  
-  *International Conference on Language Resources and Evaluation (LREC), 2022.* &nbsp;  [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://aclanthology.org/2022.lrec-1.443/)
-
-* ### SU-NLP at SemEval-2022 Task 11: Complex Named Entity Recognition with Entity Linking
-  **Buse Çarık**, Fatih Beyhan, Reyyan Yeniterzi.
-  *SemEval Workshop at ACL 2022* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://aclanthology.org/2022.semeval-1.227/)
-
-* ### SU-NLP at CheckThat! 2021: Check-Worthiness of Turkish Tweets
-  **Buse Çarık**, Reyyan Yeniterzi.
-  *CLEF (Working Notes)* &nbsp;  [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://ceur-ws.org/Vol-2936/paper-37.pdf)
-
+<div>
+  <strong>VT Autism Clinic & Center for Autism Research Student Fellowship</strong>
+  <br/>
+  <span>Awarded in recognition of research proposal *“Developing Human-AI Interaction Strategies to Sup-
+port Autistic Adults in Coping with Negative Self-Talk”*</span>
+</div>
 <br/>
 
 Selected Talks
 ======
 ---
 <div>
+  <strong>Designing Neuro-Affirming Human-AI Interactions for Coping with Negative Self-Talk
+in Autistic Adults </strong>
+  <br/>
+  <span>Virginia Tech Center for Autism Research – Biennial Spring Autism Conference, March 2025</span>
+</div>
+<div>
+  <strong>Designing Multimodal AI Tools to Support Autistic Adults with Negative Self-Talk  </strong>
+  <br/>
+  <span>Virginia Tech Center for Human-Computer Interaction (CHCI) Seminar, February 2025</span>
+</div>
+<div>
   <strong>Supporting Mental Health in Neurodiverse Communities: Enhancing LLM Accessibility through Multimodal Human-AI Interactions</strong>
   <br/>
   <span>Symposium on the Human-Centered Future of Work, Virginia Tech, November 2023</span>
 </div>
 <br/>
-
-
-Teaching
-======
----
-**Graduate Teaching Assistant**  
-- **Introduction to Software Design**  
-  Fall 2024, *Virginia Tech*  
-- **Introduction to Problem Solving**  
-  Fall 2023, *Virginia Tech*  
-- **Advanced Machine Learning**  
-  Spring 2023, *Virginia Tech*  
-- **Natural Language Processing**  
-  Spring 2022, *Sabanci University*  
-- **Computational Approaches to Problem Solving**  
-  Fall 2021, *Sabanci University*  
-- **Machine Learning**  
-  Fall 2020, *Sabanci University*  
-
-
-
-**Learning Assistant**  
-- **Operating Systems**  
-  Fall 2019, *Sabanci University*  
