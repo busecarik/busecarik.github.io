@@ -20,15 +20,12 @@ Recent News
 ======
 ---
 **[April 26]** Attending ACM CHI 2025 (Yokohama, Japan) as a paper presenter!
-
 **[April 24]** One paper accepted to CUI 2025!
-
 **[Mar. 24]** Presented our work at [VTCAR Biennial Spring Conference: Promoting Well-being for Autistic People Across the Lifespan](https://www.vtcar.science.vt.edu/outreach/Events/Conference.html)! 🎉 
-
 **[Jan. 16]** Paper accepted by CHI 2025. – [Reimagining Support: Exploring Autistic Individuals’ Visions for AI in Coping with Negative Self-Talk](https://arxiv.org/abs/2503.17504) 💡
-
 **[Oct. 14]** Won the **VTCAR Student Award** to fund my research on *“Designing neuro-affirming human-AI interactions for coping with negative self talk for autistic adults”*! 🎉 
 
+<br/>
 
 Selected Publications
 ======
@@ -79,12 +76,10 @@ Education
 Awards & Honors
 ======
 ---
-<div>
-  <strong>VT Autism Clinic & Center for Autism Research Student Fellowship</strong>
-  <br/>
-  <span>Awarded in recognition of research proposal *“Developing Human-AI Interaction Strategies to Sup-
-port Autistic Adults in Coping with Negative Self-Talk”*</span>
-</div>
+* ### VT Autism Clinic & Center for Autism Research Student Fellowship
+  Awarded in recognition of research proposal *“Developing Human-AI Interaction Strategies to Sup-
+port Autistic Adults in Coping with Negative Self-Talk”*
+
 <br/>
 
 Selected Talks
@@ -96,11 +91,13 @@ in Autistic Adults </strong>
   <br/>
   <span>Virginia Tech Center for Autism Research – Biennial Spring Autism Conference, March 2025</span>
 </div>
+
 <div>
   <strong>Designing Multimodal AI Tools to Support Autistic Adults with Negative Self-Talk  </strong>
   <br/>
   <span>Virginia Tech Center for Human-Computer Interaction (CHCI) Seminar, February 2025</span>
 </div>
+
 <div>
   <strong>Supporting Mental Health in Neurodiverse Communities: Enhancing LLM Accessibility through Multimodal Human-AI Interactions</strong>
   <br/>
